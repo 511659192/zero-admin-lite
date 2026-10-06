@@ -1,0 +1,8 @@
+import "system/user.api"
+
+info (
+	title:   "zero-admin-lite"
+	desc:    "简单实现用户管理"
+	version: "v1.0"
+)
+
